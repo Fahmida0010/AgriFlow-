@@ -11,7 +11,8 @@ export default function OrderClient({ product }: any) {
   if (!product) {
     return (
       <div className="min-h-screen flex items-center justify-center text-red-500">
-        Product not found
+        You haven’t placed any order yet.
+        Explore marketplace to order 
       </div>
     );
   }
