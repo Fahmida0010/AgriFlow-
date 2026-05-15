@@ -119,7 +119,7 @@ AgriFlow includes an **AI-powered chatbot** that helps users get instant agricul
 
 ---
 
-## 📦 Core Functionalities
+#### 📦 Core Functionalities
 
 * Role-based authentication & authorization
 * Marketplace system
