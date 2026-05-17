@@ -69,7 +69,7 @@ AgriFlow includes an **AI-powered chatbot** that helps users get instant agricul
 ### 👨‍🌾 Farmer
 
 * Add products to marketplace with full details
-* Manage products:
+* My products:
 
   * View all (My Products)
   * Update
